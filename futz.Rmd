@@ -16,7 +16,7 @@ Column {data-width=650}
 ### Chart A
 
 ```{r}
-
+plot(iris)
 ```
 
 Column {data-width=350}
@@ -25,12 +25,12 @@ Column {data-width=350}
 ### Chart B
 
 ```{r}
-
+plot(quakes)
 ```
 
 ### Chart C
 
 ```{r}
-
+plot(mtcars)
 ```
 
